@@ -5,7 +5,7 @@
 }
 body{
     min-height: 100vh;
-    background-color: #6d7dc9;
+    background-color: #6e738a;
 }
 form{
     height: 200px;
@@ -23,7 +23,36 @@ form .sub-btn{
     height: 40px;
     width: 90px;
     background-color: #643a51;
-    color: #fff;
+    color: #474545;
     border-radius: 8px;
     margin-top: 25px;
+    color: #fff;
+    font-size: 16px;
+}
+.web-title{
+    color: ghostwhite;
+    padding-bottom: 10px;
+    margin: 25px;
+    border-bottom: 1px solid #fff;
+}
+.post{
+    min-height: 120px;
+    margin: 10px;
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 8px;
+}
+.post-head h2 a{
+    color: #fff;
+    margin-bottom: 10px;
+}
+.post-head p{
+    color: #000;
+    font-size: 16px;
+    margin-top: 15px;
+}
+.post-content p{
+    color: #000;
+    margin: 10px 5px;
+    font-size: 16px;
 }
